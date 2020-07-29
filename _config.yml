@@ -1,0 +1,19 @@
+title: 大腦與語言實驗室
+description: neurolinguistics, computation, MEG/EEG applications
+plugins:
+  - jekyll-relative-links
+github:
+  is_project_page: false
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+theme: jekyll-theme-cayman
