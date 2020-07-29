@@ -13,7 +13,7 @@ If you are interested in any of the questions above, you are encouraged to join 
 
 ## Principal Investigator
 <img src="./B27_PI.png" width="120">  
-Dr. Chun-hsien Hsu
+Dr. Chun-hsien Hsu  
 Assistant Professor
   
 - Education：Ph.D.	National Yang-Ming University, Taipei, Taiwan (Neuroscience)
