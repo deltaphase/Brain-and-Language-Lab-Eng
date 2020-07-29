@@ -14,7 +14,6 @@ If you are interested in any of the questions above, you are encouraged to join 
 ## Principal Investigator
 <img src="./B27_PI.png" width="120">  
 Dr. Chun-hsien Hsu  &nbsp;
-Assistant Professor  
   
 - Education：Ph.D.	National Yang-Ming University, Taipei, Taiwan (Neuroscience)
 - kevinhsu  **@**  ncu.edu.tw  &nbsp;
