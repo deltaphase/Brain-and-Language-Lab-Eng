@@ -40,7 +40,9 @@ Awards:
 - 2008 Scholarship of National Science Council  &nbsp;
   
 ## Main Interests  
-![](./20200729_github.001.png)  
+![](./20200729_github.001.png)  &nbsp;
+<a href="https://www.youtube.com/channel/UCNIFimSvPSlSfknK-O9GrcQ" title="My Youtube Channel">[My Youtube Channel]</a>  &nbsp;  
+[![Experiment Procedures of MEG studies (English Captions)](https://img.youtube.com/vi/ISkHdB3ArD0/0.jpg)](https://www.youtube.com/watch?v=ISkHdB3ArD0)  &nbsp;
 ![](./20200729_github.002.png)  &nbsp;
 ![](./20200729_github.003.png)  &nbsp;
 ![](./20200729_github.004.png)  &nbsp;
