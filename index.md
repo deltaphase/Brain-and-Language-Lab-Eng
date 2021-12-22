@@ -60,6 +60,9 @@ NS5121 Using R for linear model analysis in cognitive science  &nbsp;
 2019–2024 The role of morphologcal complexcity and semantic distinctiveness on word recognition and word learning. (MOST-108-2636-H-008-001, MOST Young Scholar Fellowship Columbus Program) 
 
 ## Publications  
+Hsu, C.-H., & Wu, Y.-N. (2021). Application of Empirical Mode Decomposition for Decoding Perception of Faces Using Magnetoencephalography. Sensors, 21(18), 6235. (SCI)  
+Hsu, C.-H.*, Wu, Y.-N., & Lee, C.-Y. (2021). Effects of phonological consistency and semantic radical combinability on N170 and P200 in the reading of Chinese phonograms. Frontiers in psychology, 12. (SSCI; *corresponding author)  
+Kung, S.-J., Wu, D.-H., Hsu, C.-H., & Hsieh, I.-H. (2020). A minimum temporal window for direction detection of frequency-modulated sweeps: a magnetoencephalography study. Frontiers in psychology, 11, 389  
 Hsu, C.-H., Pylkkänen, L., Lee, C.-Y (2019) Effects of morphological complexity in left temporal cortex: An MEG study of reading Chinese disyllabic words. Journal of Neurolinguistics. 49, 168-177. (SSCI; corresponding author)  
 Tzeng, Y. L., Hsu, C. H., Lin, W. H., & Lee, C. Y. (2018). Impaired orthographic processing in Chinese dyslexic children: Evidence from the lexicality effect on N400. Scientific Studies of Reading, 22(1), 85-100.  
 Tzeng, Y.-L., Hsu, C.-H., Huang, Y.-C., Lee, C.-Y (2017) The Acquisition of Orthographic Knowledge: Evidence from the Lexicality Effects on N400. Frontiers in Psychology, 8(433). doi: 10.3389/fpsyg.2017.00433  
